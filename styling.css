@@ -1,0 +1,18 @@
+body {
+  color: black;
+  font-family: helvetica;
+  background-color: lightgray;
+}
+h2
+{
+  text-align: center;
+}
+h1
+{
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: darkgray;
+  width: 400px;
+}
